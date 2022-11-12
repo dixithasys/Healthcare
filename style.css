@@ -1,0 +1,56 @@
+h1{
+    color: 	 #b953e5;
+    font-size: 100px;
+    padding-left: 70px;
+    font-family: 'Dancing Script', cursive;
+    position: absolute;
+    top: 130px;
+}
+body{
+    background-color: #dbeef7;
+}
+hr {
+    border: none;
+    border-top: 10px dotted #8CB6DD;
+    color: #fff;
+    height: 1px;
+    width: 80%;
+  }
+.firstimg{
+    margin: 0%;
+    padding-left: 800px;
+    width: 600px;
+}
+span{
+    text-decoration: 20px rgb(225, 164, 225) dotted underline;
+}
+.caption{
+    position: absolute;
+    top: 300px;
+    padding-left: 70px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+}
+.under{
+    text-decoration: none;
+    color:rgb(225, 164, 225)
+}
+.services{
+    height: 30%;
+    width:30%;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+tr{
+    border-spacing: 100px;
+}
+
+td{
+    text-align: center;
+    font-size: 25px;
+}
+table{
+    border-spacing: 100px;
+}
